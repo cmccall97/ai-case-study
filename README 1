@@ -80,11 +80,13 @@ While biotech/sports etc are meaningful advancements, I think expanding DeepMind
 
 # What technologies would this additional product or service utilize?
 
-Google Gemini uses Natural Language Processing and machine learning.
+Google Gemini uses Natural Language Processing and machine learning.  It's most recent models use transformer architecture, similar to GPT-4o. It also utilizes pretraining and fine-tuning, and was trained with images, audio, and videos in tandem with text training.
+
 
 # Why are these technologies appropriate for your solution?
+
+The listed technologies are considered the cutting edge of Natural Language Modeling refinement. 
  
- It's most recent models use transformer architecture, similar to GPT-4o. It also utilizes pretraining and fine-tuning, and was trained with images, audio, and videos in tandem with text training.
 
 Sources - 
 https://pitchbook.com/profiles/company/60887-17#funding
@@ -92,4 +94,5 @@ https://web.archive.org/web/20141113165033/http://www.bloomberg.com/news/2014-01
 https://deepmind.google/about/
 https://www.cbinsights.com/company/deepmind-technologies/alternatives-competitors
 https://deepmind.google/discover/blog/tacticai-ai-assistant-for-football-tactics/
-https://medium.com/predict/deepmind-unveils-groundbreaking-path-to-agi-success-ed7f55c1ef52#:~:text=DeepMind%20proposes%20six%20criteria%20for,%2C%20and%20real%2Dworld%20value. (not the greatest source, sry)
+https://medium.com/predict/deepmind-unveils-groundbreaking-path-to-agi-success-ed7f55c1ef52#:~:text=DeepMind%20proposes%20six%20criteria%20for,%2C%20and%20real%2Dworld%20value. 
+https://www.hpcwire.com/2022/09/14/googles-deepmind-has-a-long-term-goal-of-artificial-general-intelligence/
