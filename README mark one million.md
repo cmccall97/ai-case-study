@@ -62,20 +62,29 @@ DeepMind has made groundbreaking achievements in multiple fields. The company se
 
 # What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
-
+DeepMind conveniently uses an AGI matrix, proposing six main variables to measure. They are focusing on capabilities, generality, performance, cognitive tasks, and real-world value.
 
 # How is your company performing relative to competitors in the same field?
+
+DeepMind is lagging behind OpenAI in the NLM field, with Googles equivalent "Bard" receving very lukewarm reception, and developers stating that it was "not ready" after it's initial unveiling. As stated previously, DeepMind is excelling in the biotech field, and is leading the industry in some niches.
 
 ## Recommendations
 
 # If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-* Why do you think that offering this product or service would benefit the company?
+I would give the not creative suggestion of continuing work on their Google Gemini program, to have a trademark interface for the general consumer base to interact with. Part of what makes ChatGPT so popular is the ease of access for the casual user, thus expanding its influence. 
 
-* What technologies would this additional product or service utilize?
+# Why do you think that offering this product or service would benefit the company?
 
-* Why are these technologies appropriate for your solution?
+While biotech/sports etc are meaningful advancements, I think expanding DeepMinds influence will benefit the company. ChatGPT is gaining name brand recognition of the service it provides, much like band-aids for bandages and Kleenex for tissues. Google wants that market presence with Bard. 
 
+# What technologies would this additional product or service utilize?
+
+Google Gemini uses Natural Language Processing and machine learning.
+
+# Why are these technologies appropriate for your solution?
+ 
+ It's most recent models use transformer architecture, similar to GPT-4o. It also utilizes pretraining and fine-tuning, and was trained with images, audio, and videos in tandem with text training.
 
 Sources - 
 https://pitchbook.com/profiles/company/60887-17#funding
@@ -83,3 +92,4 @@ https://web.archive.org/web/20141113165033/http://www.bloomberg.com/news/2014-01
 https://deepmind.google/about/
 https://www.cbinsights.com/company/deepmind-technologies/alternatives-competitors
 https://deepmind.google/discover/blog/tacticai-ai-assistant-for-football-tactics/
+https://medium.com/predict/deepmind-unveils-groundbreaking-path-to-agi-success-ed7f55c1ef52#:~:text=DeepMind%20proposes%20six%20criteria%20for,%2C%20and%20real%2Dworld%20value. (not the greatest source, sry)
