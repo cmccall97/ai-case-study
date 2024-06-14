@@ -56,15 +56,15 @@ OpenAI and DeepMind share the same greater market. There are more specialized ex
 
 # What has been the business impact of this company so far?
 
-DeepMind has made groundbreaking achievements in multiple fields. The company seems to be focusing resources on biotechnology recently, with CEO Demis Hassabis saying that the field has "enourmous economic value". They have already made advancements in screening for eye cancer, and the aforemention AlphaFold. 
+DeepMind has made groundbreaking achievements in multiple fields. The company seems to be focusing resources on biotechnology recently, with CEO Demis Hassabis saying that the field has "enourmous economic value". They have already made advancements in screening for eye cancer, and the aforemention AlphaFold. Google DeepMind as a whole has been taking the AI industry by storm in the past few months. Since the beginning of 2023, they have reported to have grown their user base by 15 times. (12)
 
 # What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
-DeepMind conveniently uses an AGI matrix, proposing six main variables to measure. They are focusing on capabilities, generality, performance, cognitive tasks, and real-world value. Generality is their strongest variable, as showcased by their founding goal of diversifying their assets in the AI field. I highlighted my example of real-world value with the corner kick program, but the advancements in health-care are potentially life-saving, which is great real-world value. 
+DeepMind conveniently uses an AGI matrix, proposing six main variables to measure. They are focusing on capabilities, generality, performance, cognitive tasks, and real-world value. Generality is their strongest variable, as showcased by their founding goal of diversifying their assets in the AI field. I highlighted my example of real-world value with the corner kick program, but the advancements in health-care are potentially life-saving, which is great real-world value. Capabilities are a strong point for Google Gemini, with Demis stating that is a more powerful and accurate version of GPT due to its ability to actively search the web through Google search, giving more updated answers.(11)
 
 # How is your company performing relative to competitors in the same field?
 
-DeepMind is lagging behind OpenAI in the NLM field, with Googles equivalent "Bard" receving very lukewarm reception, and developers stating that it was "not ready" after it's initial unveiling. As stated previously, DeepMind is excelling in the biotech field, and is leading the industry in some niches.
+DeepMind is lagging behind OpenAI in the NLM field, with Googles equivalent "Bard" receving very lukewarm reception, and developers stating that it was "not ready" after it's initial unveiling. As stated previously, DeepMind is excelling in the biotech field, and is leading the industry in generative protein folding research. 
 
 ## Recommendations
 
@@ -74,7 +74,7 @@ I would give the suggestion of continuing work on their Google Gemini program, t
 
 # Why do you think that offering this product or service would benefit the company?
 
-While biotech/sports etc are meaningful advancements, I think expanding DeepMinds influence will benefit the company. ChatGPT is gaining name brand recognition of the service it provides, much like band-aids for bandages and Kleenex for tissues. Google wants that market presence with Bard. 
+While biotech/sports etc are meaningful advancements, I think expanding DeepMinds influence will benefit the company. ChatGPT is gaining name brand recognition of the service it provides, much like band-aids for bandages and Kleenex for tissues. Google wants that market presence with Google Gemini. 
 
 # What technologies would this additional product or service utilize?
 
@@ -97,3 +97,5 @@ Sources -
 8 - https://www.nasdaq.com/articles/google-deepmind-ceo:-this-is-the-next-$100-billion-ai-business
 9 - https://www.digitalinformationworld.com/2023/11/exploring-chatgpts-journey-key.html
 10 - https://platform.openai.com/docs/models/gpt-4-and-gpt-4-turbo
+11 - https://em360tech.com/tech-article-bard-vs-chatgpt#:~:text=Bard%20has%20real%2Dtime%20access,and%20this%20functionality%20is%20limited.
+12 - https://markets.businessinsider.com/news/stocks/deepai-leads-the-ai-revolution-with-unprecedented-user-growth-and-expanded-services-1033126206
